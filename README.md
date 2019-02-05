@@ -8,4 +8,5 @@ For convenience the PCB is shared on OSH Park.  Please order in 1.6mm thickness.
 https://oshpark.com/shared_projects/Jw3gMtl8
 
 A 3D printed case is also available but not required for the unit to function.  The STL file can be downloaded from here:
-https://www.shapeways.com/product/TV36TQNE4/time-sleuth-case
+https://www.shapeways.com/product/DRHQ8MRWT/time-sleuth-top
+https://www.shapeways.com/product/R2SNB5DNT/time-sleuth-bottom
