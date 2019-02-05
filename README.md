@@ -2,7 +2,7 @@
 
 A cheap and easy to build HDMI lag tester.  Through hole components were chosen to aid in assembly.  Resistors and Caps are still surface mount but a larger 0805 package size. 
 
-An altera USB-Blaster is required to program the board. Firmware was created by Chriz2600 and can be found on his Github soon.
+An altera USB-Blaster is required to program the board. Firmware was created by Chriz2600 and can be found on his Github https://github.com/chriz2600/time-sleuth
 
 For convenience the PCB is shared on OSH Park.  Please order in 1.6mm thickness.
 https://oshpark.com/shared_projects/Jw3gMtl8
