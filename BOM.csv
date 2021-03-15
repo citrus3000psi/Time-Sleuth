@@ -1,6 +1,6 @@
 Reference, Quantity, Value, Footprint,Notes,DigiKey #
-C2 C3 C23,2,10u,Capacitors_SMD:C_0805_HandSoldering,16V,
-C10 C11 C12 C13 C14 C15 C16 C17 C18 C20 C22 C4 C5 C6 C7 C8 C9 ,18,.1u,Capacitors_SMD:C_0805_HandSoldering,50V,
+C2 C3 C23,3,10u,Capacitors_SMD:C_0805_HandSoldering,16V,
+C10 C11 C12 C13 C14 C15 C16 C17 C18 C20 C22 C4 C5 C6 C7 C8 C9 ,17,.1u,Capacitors_SMD:C_0805_HandSoldering,50V,
 D1 ,1,LED,LEDs:LED-5MM,,
 J1 ,1,2000-1-1-20-00-BK,pads:HDMI_THRU,,1175-1700-ND 
 J2 ,1,548190519,digikey-footprints:USB_Mini_B_Female_548190519,,WM17115-ND 
@@ -9,9 +9,8 @@ L1 ,1,MH2029-100Y,Capacitors_SMD:C_0805_HandSoldering,10 Ohm,MH2029-100YCT-ND
 R1 ,1,300K,Resistors_SMD:R_0805_HandSoldering,,
 R16 R8 R9 ,3,2.2K,Resistors_SMD:R_0805_HandSoldering,,
 R2 ,1,R_PHOTO,LEDs:LED-5MM,,475-1437-ND 
-R20 ,1,1K,Resistors_SMD:R_0805_HandSoldering,,
-R10 R11 R12 R13 R14 R15 R17 R18 R19 R3 R4 ,11,10K,Resistors_SMD:R_0805_HandSoldering,,
-R5 ,1,1k,Resistors_SMD:R_0805_HandSoldering,,
+R20 R5 ,2,1K,Resistors_SMD:R_0805_HandSoldering,,
+R10 R11 R12 R13 R14 R15 R17 R18 R19 R21 R22 R3 R4 ,13,10K,Resistors_SMD:R_0805_HandSoldering,,
 R6 ,1,510,Resistors_SMD:R_0805_HandSoldering,,
 R7 ,1,5K,Resistors_SMD:R_0805_HandSoldering,,
 SW1 ,1,SS-10-23NP-LE,pads:SS-10-23NP-LE,,563-1084-ND
